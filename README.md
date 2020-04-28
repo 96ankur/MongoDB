@@ -1,9 +1,9 @@
-- MONGODB CONVERT "JSON" FORMAT TO ANOTHER FORMAT FOR STORING, CALLED "BSON" (it is binary version of json and 
-  can queried more efficiently).
-
 ### CHARACTERISTICS OF MONGODB ###
  - No Schema
  - No/Few Relations
+ 
+ - MONGODB CONVERT "JSON" FORMAT TO ANOTHER FORMAT FOR STORING, CALLED "BSON" (it is binary version of json and 
+  can queried more efficiently).
 
 ```js
                                         WORKING WITH MONGODB
