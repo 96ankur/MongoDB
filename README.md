@@ -47,3 +47,6 @@
                             |  |_____________________|  |
                             |___________________________|
 ```
+- In mongoDB, databases, collections and documents are created automatically (that is implicitly).
+
+- Command for connecting shell to a specific port: "mongod --port 27018"
